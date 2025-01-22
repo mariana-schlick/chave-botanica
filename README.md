@@ -8,9 +8,8 @@ Bem-vindo ao repositório do projeto "Famílias de Gimnospermas"! Este projeto v
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Famílias Incluídas](#famílias-incluídas)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
+
 
 ## Descrição
 
