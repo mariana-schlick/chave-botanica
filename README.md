@@ -19,6 +19,7 @@ Este projeto foi criado com o objetivo de explorar as características das princ
 
 - **HTML5**: Para estruturação do conteúdo.
 - **CSS3**: Para estilização e layout.
+- **JavaScript**: Para efeitos e funções.
 
 ## Como Executar o Projeto
 
